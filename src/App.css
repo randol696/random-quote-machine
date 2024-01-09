@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+html{
+  background: #282c34;
+}
+.Card-Container{
+  display:block;
+  margin: auto;
+  width: 80%;
+  background-color: aliceblue;
+}
